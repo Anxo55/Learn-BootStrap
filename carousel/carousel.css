@@ -6,6 +6,9 @@ body {
     padding-top: 3rem;
     padding-bottom: 3rem;
     color: rgb(var(--bs-tertiary-color-rgb));
+    /* background: rgb(2, 0, 36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 92%, rgba(0,100,121,1) 100%); */
+    background-color: black;
   }
   
   
