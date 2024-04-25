@@ -1,0 +1,25 @@
+body{
+    background-image: url(InicidoDeSesion_imagenes/fondo.jpg);
+}
+
+.inicio-sesion-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .inicio-sesion {
+            width: 300px; 
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: black;
+            color: white;
+        }
+        .inicio-sesion form {
+            display: flex;
+            flex-direction: column;
+        }
+        .inicio-sesion input {
+            margin-bottom: 10px;
+        }
